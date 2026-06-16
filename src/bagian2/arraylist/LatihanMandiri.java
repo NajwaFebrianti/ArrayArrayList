@@ -2,7 +2,7 @@ package bagian2.arraylist;
 
 import java.util.ArrayList;
 
-public class Latihan2 {
+public class LatihanMandiri {
     public static void main(String[] args) {
         // 1. ArrayList Daftar Belanja
         System.out.println("--- Soal 1: Daftar Belanja ---");
@@ -22,7 +22,7 @@ public class Latihan2 {
         // 2. ArrayList Integer (Mencari nilai terbesar)
         System.out.println("--- Soal 2: Nilai Terbesar ArrayList ---");
         ArrayList<Integer> angka = new ArrayList<>();
-        angka.add(12);
+        angka.add(12);    
         angka.add(45);
         angka.add(78);
         angka.add(34);
